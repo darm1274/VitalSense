@@ -1,0 +1,38 @@
+.title-center {
+    text-align: center;
+}
+
+.color-alert {
+    background-color: #FFCCCC;
+    padding: 1.5rem;
+}
+
+.text-alert {
+    font-size: 2.5rem;    
+}
+
+.img-size {
+    width: 100%;   
+    max-width: 140px; 
+    height: auto;  
+    display: block; 
+    margin: 0 auto; 
+}
+
+.cards-information .card {
+    margin: 10px; 
+}
+
+/* Estilos específicos para diferentes tamaños de pantalla */
+@media (min-width: 768px) { /* Pantallas medianas y superiores */
+    .cards-information {
+        display: flex;
+        align-items: stretch; 
+        justify-content: space-around;
+        min-width: 200px;
+    }
+}
+
+.espacio-graficos {
+    margin: 20px 0;
+}

@@ -1,0 +1,31 @@
+/* historia-clinica.css */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+
+}
+
+.container {
+  max-width: 1100px; 
+  margin: 0 auto; 
+  margin-top: 10px;
+}
+.details {
+  margin-bottom: 2px;
+}
+.bold-label {
+  font-weight: bold;
+}
+
+

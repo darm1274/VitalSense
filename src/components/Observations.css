@@ -1,0 +1,29 @@
+.container {
+    max-width: 900px; 
+    margin: 0 auto; 
+    margin-top: 10px;
+  }
+  .details {
+    margin-bottom: 2px;
+  }
+  .custom-button {
+    background-color: #05B4C2; 
+    color: 'black';
+    border: '1px solid #05B4C2';
+  }
+  
+  .bold-label {
+    font-weight: bold;
+  }
+
+  .custom-button {
+    background-color: #05B4C2;
+    color: black;
+    border: 1px solid #05B4C2;
+    transition: background-color 0.3s ease; /* Agrega una transición suave de 0.3 segundos en el color de fondo */
+  }
+  
+  .custom-button:hover {
+    background-color: #037D8B; /* Cambia el color de fondo cuando el cursor pasa por encima */
+  }
+  

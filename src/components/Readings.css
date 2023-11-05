@@ -1,0 +1,31 @@
+.title-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color-alert{
+    background-color: #FFCCCC;
+    height: 100px;
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.text-alert{
+    font-size: 50px;    
+}
+
+.img-size{
+    width: '140px';
+    height: '130px';
+}
+
+.cards-information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
