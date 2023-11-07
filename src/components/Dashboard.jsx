@@ -170,7 +170,7 @@ class ChartComponent extends React.Component {
                 <h1 class="text-alert">2</h1>
               </div>
               <div class="card-body">
-                <h5 class="card-title" className='title-center'>Frecunecia cardiaca</h5>
+                <h5 class="card-title" className='title-center'>Frecuencia cardíaca</h5>
                 <p class="card-text">Registros fuera del rango en las últimas 24 horas</p>
               </div>
             </div>
