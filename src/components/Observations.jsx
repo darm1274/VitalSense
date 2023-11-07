@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 
 function Observaciones() {
   const [observaciones, setObservaciones] = useState([
-    { usuario: 'Médico', fecha: '2023-10-22', observacion: 'Hay algo en esta página que no me cuadra' },
+    { usuario: 'Médico', fecha: '2023-10-22', observacion: 'Prueba de observación' },
   ]);
   const [nuevaObservacion, setNuevaObservacion] = useState({ observacion: '' });
 

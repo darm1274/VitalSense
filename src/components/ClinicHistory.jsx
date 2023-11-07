@@ -54,7 +54,7 @@ function ClinicHistory() {
                   <span className="bold-label">Comorbilidades:</span> No
                 </li>
                 <li className="list-group-item">
-                  <span className="bold-label">Medicamentos:</span> Ron
+                  <span className="bold-label">Medicamentos:</span> Acetaminofén
                 </li>
               </ul>
             </div>
